@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GetWebservice</string>
+    <string name="menu_home">Main</string>
 </resources>
